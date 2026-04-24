@@ -142,7 +142,7 @@ student-result-system/
 ## 🙋‍♀️ Author
 
 **Khadija Ayub**
-- GitHub: [@khadija-ayub](https://github.com/khadija-ayub)
+- GitHub: [@Khadija-Ayub](https://github.com/Khadija-Ayub)
 - Email: khadijaayub19@gmail.com
 
 ---
